@@ -5,11 +5,9 @@ plugins:
 
 lang: FR
 
-title: Mélanie Comte
-description: Mon étoile polaire
+title: Mon étoile polaire
+description: Mélanie Comte, thérapeute, certifiée méthodes PEAT
 
-show_downloads: false
-
-# meta_title: 
-# meta_description: 
-# meta_keywords: 
+# meta_title: title
+# meta_description: description
+# meta_keywords: keywords
