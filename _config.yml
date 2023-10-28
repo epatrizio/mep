@@ -1,13 +1,15 @@
-theme: jekyll-theme-hacker
-remote_theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
 lang: FR
 
 title: Mélanie Comte
-description: 
+description: Mon étoile polaire
 
-meta_title: 
-meta_description: 
-meta_keywords: 
+show_downloads: false
+
+# meta_title: 
+# meta_description: 
+# meta_keywords: 
