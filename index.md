@@ -13,6 +13,8 @@ Quelle aventure que de trouver sa voie, celle qui nous anime profondément, cell
 toutes ces parts de nous dispersées. C'est ce que j'ai eu la chance de découvrir après des années d’errance durant
 lesquelles je sentais cette étincelle au fond de moi sans m'autoriser à la suivre et la laisser grandir.
 
+![étoile polaire](img/beach.jpg)
+
 J'ai donc entrepris un profond travail sur moi et je me suis formée aux **méthodes PEAT**
 puis l'étincelle est devenue lumière. \
 *Comme disait C.G.Jung "La clarté ne naît pas de ce que l'on imagine le clair, mais de ce qu'on prend conscience de l'obscur"*.
@@ -44,6 +46,8 @@ Nous sommes les seuls à posséder les clés de notre mieux être.
 Si le voyage vous appelle, je serais honorée de vous accompagner !
 
 ## Qui suis-je ?
+
+![mélanie comte](img/melanie_comte.jpg)
 
 Je me nomme Mélanie Comte et j’ai 47 ans. L’accompagnement m’a toujours attiré sans pour autant m’y engager
 jusqu’au jour où je me suis autorisée cette voie. Après un parcours professionnel varié mais toujours centré
@@ -79,6 +83,8 @@ mentale, la prise de décision et les capacités intellectuelles.
 Je travaille également avec des exercices de visualisation qui peuvent aider à descendre dans le corps,
 pour ramener l’unité en nous et permettre l’apaisement.
 
+![forêt verte](img/green.jpg)
+
 ## Tarifs des séances
 
 La séance est au tarif de **70 euros**. (Tout rendez-vous non honoré sera facturé).
@@ -92,5 +98,3 @@ L’**accompagnement**, sur plusieurs séances, permet d’atteindre ses objecti
 * **La séance en visio** (via ZOOM). L’efficacité en visio est la même qu’en présentiel. Cependant certaines personnes préfèreront venir en cabinet.
 
 *Un tarif solidaire peut-être envisagé selon la situation*.
-
-![alt](tmp.jpg)

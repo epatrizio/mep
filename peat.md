@@ -24,6 +24,8 @@ acteur de votre vie.
 La meilleure gestion des émotions et la dissolution des résistances permettra d’ouvrir en grand le champs des possibles et
 d’utiliser pleinement votre potentiel.
 
+![peat](img/sea.jpg)
+
 Pour plus d’informations vous pouvez aller consulter le site internet : \
 [methodes-peat.fr](https://www.methodes-peat.fr)
 
