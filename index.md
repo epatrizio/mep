@@ -2,7 +2,8 @@
 layout: default
 ---
 
-**Suivez cette étincelle qui est en vous !** \
+**Suivez cette étincelle qui est en vous !**
+
 Comme l’étoile polaire, elle représente la fiabilité, l’orientation. Elle est même considérée comme un guide spirituel.
 
 Cette étoile est généralement associée à la sagesse, la lumière, la connaissance et la protection.
@@ -12,10 +13,14 @@ Quelle aventure que de trouver sa voie, celle qui nous anime profondément, cell
 toutes ces parts de nous dispersées. C'est ce que j'ai eu la chance de découvrir après des années d’errance durant
 lesquelles je sentais cette étincelle au fond de moi sans m'autoriser à la suivre et la laisser grandir.
 
-J'ai donc entrepris un profond travail sur moi et je me suis formée aux méthodes PEAT puis l'étincelle est devenue lumière
+J'ai donc entrepris un profond travail sur moi et je me suis formée aux **méthodes PEAT**
+puis l'étincelle est devenue lumière. \
 *Comme disait C.G.Jung "La clarté ne naît pas de ce que l'on imagine le clair, mais de ce qu'on prend conscience de l'obscur"*.
 
-**Cette aventure, je veux la partager !** \
+[En savoir plus sur les méthodes PEAT](./peat.html)
+
+**Cette aventure, je veux la partager !**
+
 Au moyen de différents outils je vous accompagne dans la voie de l'apaisement intérieur permettant
 le retour à un bien-être durable et à l'équilibre.
 Je vous invite dans une relation basée sur la confiance et l'écoute sans jugement pour dissoudre les souffrances,
@@ -45,7 +50,8 @@ jusqu’au jour où je me suis autorisée cette voie. Après un parcours profess
 sur la relation à l’autre je me suis lancée dans l’aventure.
 
 J’ai d’abord moi-même réalisé une thérapie, puis j’ai reçu d’autres pratiques et, coinvaincue de leur efficacité,
-je me suis formée aux méthodes PEAT et obtenue la certification. J’ai élargi la formation à la gestion du stress et de l’anxiété,
+je me suis formée aux [méthodes PEAT](./peat.html) et obtenue la certification.
+J’ai élargi la formation à la gestion du stress et de l’anxiété,
 l’état apaisé étant nécessaire à tout travail en profondeur.
 
 Aujourd’hui je vous accompagne pour vous aider à vous retrouver et vous déployer, car vous seuls possèdez les clés de
@@ -72,29 +78,6 @@ mentale, la prise de décision et les capacités intellectuelles.
 
 Je travaille également avec des exercices de visualisation qui peuvent aider à descendre dans le corps,
 pour ramener l’unité en nous et permettre l’apaisement.
-
-## Les méthodes PEAT ou Activation de l’Energie Primordiale et de la Transcendance
-
-En France, ces méthodes sont en plein expansion, tandis qu’elles sont déjà largement utilisées dans d’autres pays
-et ont fait leurs preuves.
-
-La dualité est présente dans toute réalité naturelle et humaine: le bien le mal, l’ombre la lumière, la matière l’immatériel,
-de même que chez l’être humain tout est polarités : joie souffrance, bonheur malheur, amour haine, vie mort et
-chacune des polarités ne peut exister sans l’autre, elles sont les deux parties d’un tout qu’il nous faut comprendre
-et accepter et réunifier pour (re)trouver l’équilibre.
-
-Avec les méthodes PEAT nous neutralisons vos contraditions en fusionnant vos polarités.
-Cela permet de dissoudre vos conflits intérieurs qui entretiennent les charges physiques, émotionnelles et mentales et
-ramener l’unité, seule source de bien-être. Ces méthodes permettent des transformations profondes rapides.
-A travers nos échanges émerge l’identification des problématiques ou blocages causes de souffrances ou difficultés.
-Je vous permets d’engager un processus de transformation par la libération émotionnelle vous rendant ainsi pleinement
-acteur de votre vie.
-
-La meilleure gestion des émotions et la dissolution des résistances permettra d’ouvrir en grand le champs des possibles et
-d’utiliser pleinement votre potentiel.
-
-Pour plus d’informations vous pouvez aller consulter le site internet :
-[methodes-peat.fr](https://www.methodes-peat.fr)
 
 ## Tarifs des séances
 
