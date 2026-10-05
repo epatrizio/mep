@@ -68,6 +68,31 @@ dans le monde d'aujourd'hui.\
 Tous les outils dont je dispose me permettent de m'adapter aux maux/mots pour répondre au mieux
 aux besoins et apporter un mieux être réel et durable.
 
+### Enfants
+
+**Plein d'outils pour accompagner les enfants : des jeux, des histoires, de la respiration, des méditations, des sons !**
+
+Les enfants n'ont pas de filtres (ou peu) et plongent pleinement dans les exercices proposés
+ce qui produit un résultat plus rapide. Ils ne sont pas encore conditionnés et ils peuvent reprogrammer
+des schémas de réponses émotionnelles et comportementales en apprenant à identifier leurs ressentis.
+
+**Cela passe par le corps**. L'enfant n'a pas encore une connaissance précise de son corps.
+A travers des activités ludiques je les guide dans l'exploration de leur potentiel. Cela permet de
+renforcer la confiance en soi. Je leur donne des outils pour gérer leurs émotions.
+Je les amène à comprendre ce que font les émotions dans le corps, pour mieux les identifier et les accompagner.
+Aucune émotion ne doit être contenue. Mieux les comprendre c'est pouvoir apporter une meilleure réponse,
+dans la libération et non dans la frustration ou l'étouffement.
+
+**Cela passe aussi par la vibration sonore et la créativité**. Je travaille également avec le son
+(au moyen d'instruments et de la voix) qui est un excellent moyen de connecter son corps et de s'apaiser.
+**Le son harmonise et régule les émotions**.\
+Enfin je travaille avec des jeux créatifs pour aider à identifier des points de blocages
+et trouver des ressources pour les dépasser. L'enfant prend petit à petit conscience de toutes
+les ressources dont il dispose pour répondre au mieux aux situations du quotidien dans le respect de ses ressentis.\
+La première séance permet aux parents et à l'enfant d'exprimer la problématique, de comprendre le fonctionnement
+des uns et des autres et de définir les attentes. Il est essentiel que l'enfant comprenne que ces séances
+sont proposées dans le seul but de l'aider et qu'il en sera le pilote.
+
 ![plage](img/beach.jpg)
 
 ### Gestion du stress et de l'anxiété
