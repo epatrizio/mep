@@ -30,4 +30,7 @@ Je vous permets d'engager un processus de transformation vous rendant ainsi plei
 Pour plus d'informations vous pouvez aller consulter le site internet : \
 [methodes-peat.fr](https://www.methodes-peat.fr)
 
-[<-- acccueil](./)
+
+[<-- Mélanie Compte, thérapeute](./therapeute.html)
+
+[<-- accueil](./)
