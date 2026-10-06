@@ -16,15 +16,14 @@ Les motifs de consultations principaux sont :
 Troubles de l'anxiété, troubles compulsifs, troubles du sommeil, difficultés d'affirmation de soi,
 perte de sens, problèmes de confiance, émergence d'événements traumatiques, peurs ou phobies ...
 
+[Détail de mes accompagnements](./therapeute.html)
+
 ## Me contacter
 
 ![melanie comte](img/melanie_comte_portrait.jpg)
 
 * **email** : contact@monetoilepolaire.fr
 * **cabinet** : Saint-Mandé (94, Val de Marne)
-* Pour en savoir plus :
-  * [activité détaillée](./therapeute.html)
-  * [méthodes PEAT](./peat.html)
 
 ### Tarifs
 
